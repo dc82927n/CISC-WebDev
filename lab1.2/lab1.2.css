@@ -8,7 +8,7 @@ body {
   font-family: "Open Sans", sans-serif;
   padding: 5px 25px;
   font-size: 22px;
-  margin: 0;
+  margin: 50 200;
   color: #444;
 }
 
@@ -46,4 +46,5 @@ body {
 .imageWithCaption {
   text-align: right;
 }
+
 
